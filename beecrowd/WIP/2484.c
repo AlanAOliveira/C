@@ -11,7 +11,7 @@ int main()
                 printf(" ");
             for(j=0;j<w-i-1;j++)
                 printf("%c ",palavra[j]);
-            printf("%c\n",palavra[w-1]);
+            printf("%c\n",palavra[j]);
         }
         printf("\n");
     }
